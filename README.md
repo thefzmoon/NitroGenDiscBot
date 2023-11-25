@@ -10,13 +10,16 @@ Install with git
   git clone https://github.com/thefzmoon/NitroGenDiscBot.git
   cd NitroGenDiscBot
   pip install -r requirements.txt
-  Edit the file:
+```
+```
+Now edit the file:
   Add the Discord bot token (at the bottom)
   Add the administrator role id (at the top)
   Save
+  Now run:
   py main.py
 ```
-    
+
 ## Features
 
 - Add/Edit/Del custom commands (will save after restart)
