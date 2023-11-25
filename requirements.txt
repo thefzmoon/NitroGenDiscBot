@@ -1,0 +1,7 @@
+discord
+asyncio
+random
+string
+json
+flask
+threading
